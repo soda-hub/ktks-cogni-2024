@@ -138,4 +138,4 @@ try {
         border-radius: 5px;
         padding: 10px 10px;
         cursor: pointer;
-    `};function QP(){return te.jsxs(mk,{children:[te.jsx(yk,{}),te.jsx(oA,{basename:"ktks-cogni-2024",children:te.jsxs(Xb,{children:[te.jsx(kd,{path:"/",element:te.jsx(FP,{})}),te.jsx(kd,{path:"/training",element:te.jsx(GP,{})})]})})]})}const YP=Mc.createRoot(document.getElementById("root"));YP.render(te.jsx(Bo.StrictMode,{children:te.jsx(QP,{})}));
+    `};function QP(){return te.jsxs(mk,{children:[te.jsx(yk,{}),te.jsx(oA,{basename:"/ktks-cogni-2024/",children:te.jsxs(Xb,{children:[te.jsx(kd,{path:"/",element:te.jsx(FP,{})}),te.jsx(kd,{path:"/training",element:te.jsx(GP,{})})]})})]})}const YP=Mc.createRoot(document.getElementById("root"));YP.render(te.jsx(Bo.StrictMode,{children:te.jsx(QP,{})}));
