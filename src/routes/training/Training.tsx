@@ -9,7 +9,6 @@ export const drawCanvas = (ctx: CanvasRenderingContext2D, results: Results) => {
 
 }
 
-
 export default function Training() {
     const webcamRef = useRef<Webcam>(null)
     const canvasRef = useRef<HTMLCanvasElement>(null)
