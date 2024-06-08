@@ -9,7 +9,7 @@ export default function App() {
   return (
     <CssVarsProvider>
       <CssBaseline />
-      <BrowserRouter basename="ktks-cogni-2024">
+      <BrowserRouter basename={import.meta.env.DEV ? "/" : "/ktks-cogni-2024/"}>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/training' element={<Training />} />
